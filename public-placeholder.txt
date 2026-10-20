@@ -1,0 +1,1 @@
+This file is intentionally included as a note. Vite serves the project root directly; remove this file if you do not need it.
